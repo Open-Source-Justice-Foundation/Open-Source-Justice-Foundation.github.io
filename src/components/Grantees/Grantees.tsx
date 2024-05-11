@@ -21,7 +21,22 @@ const granteeMap = [
   },
   {
     name: "Justin Moeller",
-    bio: "Justin is a software engineer passionate about Bitcoin, distributed systems, and databases. He is currently working on the Fedimint protocol, and is supported by Spiral and OpenSats. The Foundation awarded Justin a grant for his proposal to create a Fedimint escrow and arbitration module.",
+    bio: (
+      <span>
+        Justin is a software engineer passionate about Bitcoin, distributed
+        systems, and databases. He is currently working on the Fedimint
+        protocol, and is supported by Spiral and OpenSats. The Foundation
+        awarded Justin a grant for{" "}
+        <a
+          href="https://gist.github.com/m1sterc001guy/562d15fc995e45e6b7f10538c2a9dfe6"
+          target="_blank"
+          className="font-medium hover:underline"
+        >
+          his proposal to create a Fedimint escrow and arbitration module
+        </a>
+        .
+      </span>
+    ),
     img: justinMoeller,
     nostr:
       "https://primal.net/p/npub1zswjq57t99f444z6485xtn0vfyjjfu8vqpnyj6uckuyem2446evqnxgc6x",
