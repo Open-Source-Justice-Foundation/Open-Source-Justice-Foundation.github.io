@@ -26,13 +26,13 @@ const config = {
         "2rem",
         {
           lineHeight: "2.5rem",
-          letterSpacing: "0.2px",
+          letterSpacing: "-0.0375rem",
         },
       ],
       "4xl": [
         "2.75rem",
         {
-          letterSpacing: "-3px",
+          letterSpacing: "-0.0625rem",
           lineHeight: "50px",
         },
       ],
@@ -49,7 +49,7 @@ const config = {
         "6.25rem",
         {
           lineHeight: "6.875rem",
-          letterSpacing: "-3px",
+          letterSpacing: "-0.1875rem",
         },
       ],
     },
