@@ -9,7 +9,9 @@ export default function Projects() {
       />
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
         <div className="flex flex-col gap-4">
-          <Fundsolvr />
+          <a href="https://fundsolvr.com" target="_blank">
+           <Fundsolvr />
+          </a>
           <h4 className="font-medium font-hubot text-xl text-title mt-2 md:mt-0">
             Fundsolvr
           </h4>
@@ -23,13 +25,15 @@ export default function Projects() {
           </p>
           <div className="flex flex-row gap-4">
             {/* <Duck /> */}
-            <a href="https://github.com/Resolvr-io/resolvr.io" target="_blank">
+            <a href="https://github.com/Open-Source-Justice-Foundation/Fundsolvr" target="_blank">
               <Github width="32" height="33" />
             </a>
           </div>
         </div>
         <div className="flex flex-col gap-4">
-          <Keystache />
+          <a href="https://keystache.io" target="_blank">
+            <Keystache />
+          </a>
           <h4 className="font-medium font-hubot text-xl text-title">
             Keystache
           </h4>
@@ -41,7 +45,7 @@ export default function Projects() {
           </p>
           <div className="flex flex-row gap-4 mt-auto">
             {/* <Duck /> */}
-            <a href="https://github.com/Resolvr-io/Keystache" target="_blank">
+            <a href="https://github.com/nodetec/keystache" target="_blank">
               <Github width="32" height="33" />
             </a>
           </div>
