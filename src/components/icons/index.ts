@@ -14,6 +14,7 @@ import BoltFun from "./BoltFun";
 import Alby from "./Alby";
 import Discord from "./Discord";
 import Grove from "./Grove";
+import FFK from "./FFK";
 export {
   Logo,
   Mail,
@@ -31,4 +32,5 @@ export {
   Alby,
   Discord,
   Grove,
+  FFK,
 };
