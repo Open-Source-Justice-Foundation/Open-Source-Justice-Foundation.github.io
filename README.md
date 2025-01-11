@@ -1,3 +1,19 @@
+<div align="center"><p>
+    <h1>Open Source Justice Website ⚖️</h1>
+    <a href="https://github.com/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io/pulse">
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+    <a href="https://github.com/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io">
+      <img alt="Repo size" src="https://img.shields.io/github/repo-size/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
