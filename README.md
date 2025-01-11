@@ -1,5 +1,5 @@
 <div align="center"><p>
-    <h1>Open Source Justice Website ⚖️</h1>
+    <h1>Open Source Justice Foundation Website ⚖️</h1>
     <a href="https://github.com/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io/pulse">
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/Open-Source-Justice-Foundation/Open-Source-Justice-Foundation.github.io?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
@@ -14,9 +14,11 @@
     </a>
 </div>
 
+## Contribute
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
